@@ -1,0 +1,243 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background: linear-gradient(45deg, #62b3fa, #76d3c3, #799ce9 );
+background-size:200% 200% ;
+background-attachment:fixed ;
+animation: gradientMove 10s ease infinite;
+}
+@keyframes gradientMove{
+0%{background-position: 0% 50%;}
+50%{background-position: 100% 50%;}
+100%{background-position: 0% 50%;}
+}   
+nav{
+    width: 1200px;
+    height: 70px;
+    background: white;
+   border-radius: 9px;
+}
+.bbb{
+    display: block;
+    width: 110px;
+    height: 30px;
+    opacity: 67%;
+    border: 1px solid gray;
+    margin-left: 15px;
+    float: right;
+    border-radius: 7px;
+        text-decoration: none;
+        color: black;
+        padding: 3px;
+        margin-top: 15px;
+        text-align: center;
+        margin-right: 10px;
+}
+.shkmimg{
+width: 50px;
+height: 50px;
+float: left;
+margin-left: 35px;
+margin-top:10px ;
+}
+.shkm{
+    width: 200px;
+    height: 50px;
+    float: left;
+}
+.aaa{
+    display: block;
+    width: 110px;
+    height: 30px;
+    background: rgb(225, 248, 255);
+    color: blue;
+    opacity: 69%;
+    border: 1px solid rgb(172, 172, 172);
+    float: right;
+    text-align: center;
+    text-decoration: none;
+ padding: 3px;
+        border-radius: 7px;
+                margin-top: 15px;
+                    margin-left: 15px;
+}
+
+.j{
+    float: right;
+   
+}
+.box{
+    width: 1200px;
+margin: 0 auto;
+height: 4500px;
+}
+
+.h11{
+        color: black;
+ 
+    
+}
+.oo{
+    width: 1200px;
+    height: 500px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.fish{
+    font-size: 25px;
+    margin-top: -20px;
+}
+.aaaaa{
+     margin-top: 15px;
+    font-size: 30px;
+margin-left: 10px;
+padding-top: 10px;
+}
+.aq{
+      width: 1200px;
+    height: 500px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.section{
+    width: 800px;
+    height: 350px;
+}
+.section1{
+    width: 795px;
+    height: 100px;
+    background: lightblue;
+    border-radius: 0px 0px 10px 10px;
+}
+.aq1{
+       margin-top: 15px;
+    font-size: 30px;
+margin-left: 10px;
+padding-top: 10px;
+}
+.kole{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
+h3{
+margin-top: -2.5px;
+    color: blue;
+}
+p{
+    color: black;
+}
+.tr{
+    display: block;
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background: yellow;
+    margin-right: 5px;
+}
+.section2{
+    width: 795px;
+    height: 100px;
+    background: lightblue;
+    border-radius: 0px 0px 10px 10px;
+}
+.section3{
+    float: left;
+    width: 395px; ;
+    height: 150px;
+    background: rgb(255, 218, 224);
+    border-radius:10px;
+}
+.section4{
+    float: right;
+    width: 395px;
+    height: 150px;
+    background: rgb(213, 252, 215);
+    border-radius:10px;
+}
+.section5{
+    float: right;
+    width: 395px;
+    height: 350px;
+    margin-top: -350px;
+}
+img{
+    width: 383px;
+    margin-left: 7px;
+    border-radius: 10px;
+}
+.section6{
+    float: left;
+    width: 395px;
+    height: 350px;
+}
+.section7{
+    width: 795px;
+    height: 100px;
+    background: lightblue;
+    border-radius: 0px 0px 10px 10px;
+}
+.section8{
+    float: right;
+    width: 395px; ;
+    height: 150px;
+    background: rgb(255, 218, 224);
+    border-radius:10px;
+}
+.section9{
+    float: left;
+    width: 395px;
+    height: 150px;
+    background: rgb(213, 252, 215);
+    border-radius:10px;
+}
+.section11{
+    float: left;
+    width: 395px;
+    height: 350px;
+    margin-top: -350px;
+}
+.section67{
+        width: 800px;
+    height: 350px;
+    float: right;
+}
+.ooa{
+ width: 1200px;
+    height: 500px;
+    background: white;
+    border-radius: 20px;
+       margin-top: 100px;
+}
+.gitler{
+    width: 1200px;
+    height: 500px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+.ooaa{
+ width: 1200px;
+    height: 500px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 20px;
+       margin-top: 50px;
+}
+.ooaaa{
+ width: 1200px;
+    height: 500px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 20px;
+       margin-top: 70px;
+}
